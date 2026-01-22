@@ -4,3 +4,5 @@ height = 5.76
 are_you_student = True
 
 print('Name:', name)
+print('Age:', age)
+print('Height:', height)
