@@ -15,10 +15,10 @@ print(f"{celsius}C is equal to {fahrenheit}F")
 # Calculate tip amount
 # Hint: Tip = bill amount * (tip percentage / 100)
 
-# bill_amount = float(input("Enter bill amount: $"))
-# tip_percentage = float(input("Enter the tip percentage: "))
-# tip_amount = bill_amount * (tip_percentage / 100)
-# print(f"The tip amount is: ${tip_amount}")
+bill_amount = float(input("Enter bill amount: $"))
+tip_percentage = float(input("Enter the tip percentage: "))
+tip_amount = bill_amount * (tip_percentage / 100)
+print(f"The tip amount is: ${tip_amount}")
 
 # 4. Savings Goal Tracker
 # Calculate months to reach the savings
